@@ -52,7 +52,7 @@ const messages = [
     'how u been pedo @target',
     'long time no see @target',
     'yo chief @target',
-    'yo\nchief\nshut\nthe\nfuck\nup\nwhore\nur\nbreasts\nfuckign\nstink\nnigga',
+    'yo\nchief\nshut\nthe\nfuck\nup\nwhore\nur\nbreasts\nfucking\nstink\nnigga',
     'ur ass bitch @target\npedo named chief',
     'chief shut the fuck up pedo',
     'weak\nass\nvirgin\nnigga\nur\nmiserable\nas\nshit\nfucking\nfaggot\nchief',
